@@ -3,7 +3,7 @@ This simple program loads external playlists (you must specify url to playlist i
 
 ## Usage
 iptvd.py [comand] [argument]
-
+```
 iptvd.py load [url]
     load external playlist from url in m3u format and save it to database
 iptvd.py save [filename]
@@ -12,3 +12,4 @@ iptvd.py check [max count]
     check sources for availability
 iptvd.py remove
     remove outdated entries from database
+```
