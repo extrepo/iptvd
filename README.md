@@ -1,5 +1,5 @@
 # iptvd
-This simple program loads external playlists (you must specify url to playlist in m3u format), ckecks sources for availability and creates new playlist.
+This simple program downloads external playlists (you need to specify the URL of the playlist in m3u format), checks the sources for availability and creates a new playlist.
 
 ## Usage
 iptvd.py [comand] [argument]
